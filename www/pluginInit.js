@@ -104,7 +104,7 @@ function pluginInit() {
     '   display:none !important;',
     '}'
   ].join('');
-  document.head.appendChild(cssAdjuster);
+   //document.head.appendChild(cssAdjuster);
 
   // I guess no longer necessary this code at 2018/March
   // //----------------------------------------------
